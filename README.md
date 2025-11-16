@@ -24,6 +24,26 @@ A portable AI safety + reasoning transparency layer that evaluates confidence, e
 - Micro-OS product frameworks  
 - Transparent, auditable AI reasoning
 
+- ### Architecture Snapshot (2025)
+
+Right now I’m building a layered reasoning stack:
+
+**L0 — Engine (Loryne)**  
+Neutral compute substrate for structured reasoning flows.
+
+**L1 — LOS Core (`los-core`)**  
+Linguistic Operating System layer: Binder v2.0 governance, ARC runtime context, AMC mode routing, and LLpL semantic persistence.
+
+**L2 — Design Logic Adaptive Engine (DLAE / AdaptE)**  
+Modular framework that turns LOS-governed instructions into agents, workflows, and micro-OS environments.
+
+**L3 — Design Logic Studio (DLStudio)**  
+Application suite built on AdaptE: agent templates, productized workflows, safety layers, and creator tools.
+
+**L4 — Tools & Probes**  
+TruthProbe v1.1, evaluation harnesses, and other reasoning middleware built to run inside LOS-style environments.
+
+
 ### Repos
 - **design-logic-architecture-overview** — mental model + diagrams  
 - **truthprobe-ai-safety-layer** — core runtime + spec  
