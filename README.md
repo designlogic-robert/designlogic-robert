@@ -1,58 +1,121 @@
-# Robert Hansen — AI Systems Developer  
-**Founder, Design Logic · Builder of LOS → Loryne → AdaptE · Prompt Logic Architect**
+# Robert Hansen — AI Systems Architect  
+Creator of SynCE (Synchronized Cognitive Engine)  
+Founder, Design Logic
 
-I design human-language operating systems.
+I build deterministic, architecture-driven AI systems focused on meaning, control, and alignment.  
+My work spans semantic substrates, orchestration engines, control protocols, and runtime governance.
 
-My work is focused on creating structured AI reasoning frameworks — the kind that make large language models behave predictably, interpret instructions cleanly, and run as modular “micro-OS” environments inside any LLM.
+My core specialization:
 
-Right now I build:
-
-### Design Logic Adaptive Engine (DLAE)
-A modular cognitive framework that turns natural language into structured, validated, and routable instructions.
-
-### LOS (Linguistic Operating System)
-A packet-based mental model for AI instructions — with Binder v2.0 governance, ARC runtime context, AMC mode routing, and LLpL persistence.
-
-### TruthProbe v1.1  
-A portable AI safety + reasoning transparency layer that evaluates confidence, evidence strength, bias risk, and hidden assumptions for *any* LLM.
-
-### What I Work On
-- AI system architectures  
-- Prompt logic + instruction routing  
-- OS-style language models (Loryne → LOS)  
-- Evaluation tools  
-- Micro-OS product frameworks  
-- Transparent, auditable AI reasoning
-
-- ### Architecture Snapshot (2025)
-
-Right now I’m building a layered reasoning stack:
-
-**L0 — Engine (Loryne)**  
-Neutral compute substrate for structured reasoning flows.
-
-**L1 — LOS Core (`los-core`)**  
-Linguistic Operating System layer: Binder v2.0 governance, ARC runtime context, AMC mode routing, and LLpL semantic persistence.
-
-**L2 — Design Logic Adaptive Engine (DLAE / AdaptE)**  
-Modular framework that turns LOS-governed instructions into agents, workflows, and micro-OS environments.
-
-**L3 — Design Logic Studio (DLStudio)**  
-Application suite built on AdaptE: agent templates, productized workflows, safety layers, and creator tools.
-
-**L4 — Tools & Probes**  
-TruthProbe v1.1, evaluation harnesses, and other reasoning middleware built to run inside LOS-style environments.
-
-
-### Repos
-- **design-logic-architecture-overview** — mental model + diagrams  
-- **truthprobe-ai-safety-layer** — core runtime + spec  
-- **truthprobe-evaluation-samples** — evaluation suite + comparisons  
+**Semantic Engine Architecture → (Semantic Tokens + SCP + ORCH-C + Semantic Core)**  
+A complete stack for structured, predictable, explainable AI.
 
 ---
 
-If you're exploring structured AI systems, LLM-native workflows, or transparent reasoning layers — I build those.
+## 🔷 Current Work — SynCE
 
-DM: robert.h.designlogic@gmail.com  
-Carrd: https://designlogic.carrd.co  
-LinkedIn: https://www.linkedin.com/in/roberthansen-ai  
+**SynCE (Synchronized Cognitive Engine)** is a unified reasoning stack built on:
+
+- **Semantic Core**  
+  LOS (linguistic OS) + DLC (Deep Linguistic Core)
+
+- **Semantic Tokens v1.0**  
+  Typed, schema-bound units of meaning
+
+- **SCP v1.0 — Semantic Control Protocol**  
+  Declarative control substrate for deterministic reasoning
+
+- **ORCH-C v1.1**  
+  Deterministic multi-agent planner/orchestrator
+
+- **Binder v2.0 + CAP**  
+  Governance, integrity, and autonomy-protection
+
+Together these form a **structured, multi-layer semantic engine** capable of predictable, auditable, aligned reasoning.
+
+---
+
+## 🔷 Repositories
+
+### **1. synce-architecture**  
+High-level conceptual/technical overview of the entire SynCE stack.  
+Includes L0–L6 layer definitions, diagrams, reasoning flow, and design principles.
+
+### **2. semantic-core**  
+Foundational runtime substrate for SynCE.  
+Includes LOS, DLC, Binder v2.0, LLpL v1.2, Modes/Postures, and semantic governance.
+
+### **3. semantic-tokens-v1**  
+Public-stable spec for Semantic Tokens v1.0.  
+Typed meaning substrate, families, invariants, frames, schemas, and examples.
+
+### **4. scp-protocol-v1**  
+Semantic Control Protocol v1.0.  
+Declarative control layer that converts intent → constraints → routing → execution.
+
+### **5. truthprobe**  
+Reasoning transparency module for LLM outputs.  
+Attaches structured TruthTails for confidence, evidence, risk, and assumptions.
+
+---
+
+## 🔷 Research Papers & Decks
+
+Each repo includes:
+
+- A **PDF research paper**  
+- The **LaTeX source**  
+- A **3-slide conceptual deck**  
+- ASCII architecture diagrams  
+- Public-stable specifications
+
+This mirrors professional ML research repos and makes the architecture accessible.
+
+---
+
+## 🔷 Domain Expertise
+
+- Semantic Architecture  
+- AI Operating Systems  
+- Deterministic Reasoning  
+- Multi-Agent Planning  
+- Safety, Governance, Alignment  
+- Declarative Control Protocols  
+- Structured Meaning Representations  
+- LLM Tooling + Runtime Orchestration
+
+---
+
+## 🔷 What I Build
+
+Systems with:
+
+- Meaning that is typed, stable, machine-interpretable  
+- Control that is explicit, declarative, constraint-bound  
+- Planning that is deterministic, auditable, and reproducible  
+- Governance that enforces alignment, safety, and autonomy  
+- Runtime behavior that is consistent across contexts  
+
+---
+
+## 🔷 Contact / Professional
+
+LinkedIn: *(add link)*  
+X/Twitter: *(optional)*  
+Email: *(optional)*  
+
+---
+
+## 🔷 Philosophy
+
+AI systems should behave like **architectures**, not text generators.  
+Meaning should be stable.  
+Control should be explicit.  
+Governance should be built-in.  
+Transparency should be normal.
+
+This is the foundation of SynCE.
+
+---
+
+_End._
