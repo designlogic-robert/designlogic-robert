@@ -100,9 +100,8 @@ Systems with:
 
 ## 🔷 Contact / Professional
 
-LinkedIn: *(add link)*  
-X/Twitter: *(optional)*  
-Email: *(optional)*  
+LinkedIn: www.linkedin.com/in/roberthansen-ai    
+Email: robert.h.designlogic@gmail.com  
 
 ---
 
