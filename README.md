@@ -1,120 +1,38 @@
-# Robert Hansen — AI Systems Architect  
-Creator of SynCE (Synchronized Cognitive Engine)  
-Founder, Design Logic
+# Robert Hansen
 
-I build deterministic, architecture-driven AI systems focused on meaning, control, and alignment.  
-My work spans semantic substrates, orchestration engines, control protocols, and runtime governance.
-
-My core specialization:
-
-**Semantic Engine Architecture → (Semantic Tokens + SCP + ORCH-C + Semantic Core)**  
-A complete stack for structured, predictable, explainable AI.
+**Semantic Systems Architect • Cognitive Engine Designer • Creator of USR / UST**
 
 ---
 
-## 🔷 Current Work — SynCE
+## Who I am
 
-**SynCE (Synchronized Cognitive Engine)** is a unified reasoning stack built on:
+I design **semantic operating systems** for AI – not just prompts or apps.
 
-- **Semantic Core**  
-  LOS (linguistic OS) + DLC (Deep Linguistic Core)
+My work centers on:
 
-- **Semantic Tokens v1.0**  
-  Typed, schema-bound units of meaning
+- **USR** – Universal Semantic Runtime  
+- **UST** – Universal Semantic Token Model  
+- **Semantic Engine** – shared semantic substrate  
+- **Cognitive Engines** – domain stacks like SynCE, FinCE, QLE  
+- **Evaluation & Safety** – TruthProbe, ORCH-C, SCP
 
-- **SCP v1.0 — Semantic Control Protocol**  
-  Declarative control substrate for deterministic reasoning
-
-- **ORCH-C v1.1**  
-  Deterministic multi-agent planner/orchestrator
-
-- **Binder v2.0 + CAP**  
-  Governance, integrity, and autonomy-protection
-
-Together these form a **structured, multi-layer semantic engine** capable of predictable, auditable, aligned reasoning.
+I treat AI systems as **meaning engines** with formal tokens, protocols, and planners.
 
 ---
 
-## 🔷 Repositories
+## Ecosystem at a Glance
 
-### **1. synce-architecture**  
-High-level conceptual/technical overview of the entire SynCE stack.  
-Includes L0–L6 layer definitions, diagrams, reasoning flow, and design principles.
+At the highest level, my stack looks like this:
 
-### **2. semantic-core**  
-Foundational runtime substrate for SynCE.  
-Includes LOS, DLC, Binder v2.0, LLpL v1.2, Modes/Postures, and semantic governance.
-
-### **3. semantic-tokens-v1**  
-Public-stable spec for Semantic Tokens v1.0.  
-Typed meaning substrate, families, invariants, frames, schemas, and examples.
-
-### **4. scp-protocol-v1**  
-Semantic Control Protocol v1.0.  
-Declarative control layer that converts intent → constraints → routing → execution.
-
-### **5. truthprobe**  
-Reasoning transparency module for LLM outputs.  
-Attaches structured TruthTails for confidence, evidence, risk, and assumptions.
-
----
-
-## 🔷 Research Papers & Decks
-
-Each repo includes:
-
-- A **PDF research paper**  
-- The **LaTeX source**  
-- A **3-slide conceptual deck**  
-- ASCII architecture diagrams  
-- Public-stable specifications
-
-This mirrors professional ML research repos and makes the architecture accessible.
-
----
-
-## 🔷 Domain Expertise
-
-- Semantic Architecture  
-- AI Operating Systems  
-- Deterministic Reasoning  
-- Multi-Agent Planning  
-- Safety, Governance, Alignment  
-- Declarative Control Protocols  
-- Structured Meaning Representations  
-- LLM Tooling + Runtime Orchestration
-
----
-
-## 🔷 What I Build
-
-Systems with:
-
-- Meaning that is typed, stable, machine-interpretable  
-- Control that is explicit, declarative, constraint-bound  
-- Planning that is deterministic, auditable, and reproducible  
-- Governance that enforces alignment, safety, and autonomy  
-- Runtime behavior that is consistent across contexts  
-
----
-
-## 🔷 Contact / Professional
-
-LinkedIn: www.linkedin.com/in/roberthansen-ai    
-Email: robert.h.designlogic@gmail.com  
-
----
-
-## 🔷 Philosophy
-
-AI systems should behave like **architectures**, not text generators.  
-Meaning should be stable.  
-Control should be explicit.  
-Governance should be built-in.  
-Transparency should be normal.
-
-This is the foundation of SynCE.
-
----
-
-_End._
+```text
+UST  (Universal Semantic Token Model)
+  ↓
+USR  (Universal Semantic Runtime)
+  ↓
+Semantic Engine  (shared semantic substrate)
+  ↓
+Cognitive Engines  (SynCE, FinCE, QLE, …)
+  ↓
+Tools & Products  (TruthProbe, etc.)
+  ↓
+Research Papers   (specs, briefs, and theory)
