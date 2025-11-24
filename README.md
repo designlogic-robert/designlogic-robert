@@ -1,73 +1,148 @@
-# Robert Hansen  
-**Chief Semantic Architect • Creator of USR/UST • Founder of USS**
+# Robert Hansen
+### Chief Semantic Architect • AI Systems Engineer • Runtime Designer
 
-Welcome.  
-This repository is my personal engineering and research hub.  
-It is the entry point into my work on **Universal Semantic Systems (USS)**, including:
+Welcome.
+This repository serves as my personal engineering portfolio, architecture index, and working showcase of the systems I’ve designed across semantics, runtime orchestration, and cognitive-engine architectures.
 
-- **USR** — Universal Semantic Runtime  
-- **UST** — Universal Semantic Token Model  
-- **SynCE** — Cognitive Engine for AI systems  
-- **FinCE** — Cognitive Engine for trading  
-- **QLE** — Teleogenic Engine for narrative/game worlds  
-- **ORCH-C** — Deterministic, posture-aware orchestration layer  
+I specialize in building synthetic cognition systems — deterministic layers that sit under LLMs and turn them into reliable, auditable reasoning engines.
 
-Everything here represents the *personal side* of that ecosystem; who I am, how I think, and how I design semantic systems.
+This repo documents that work.
 
----
+--- 
 
-## Mission
+## Focus Areas
+### 1. Semantic Runtime Architecture
 
-My mission is to define the next generation of AI infrastructure:  
-systems that reason in meaning, not probabilities.  
-This includes:
+I design the layers that sit beneath model output:
 
-- semantic runtimes  
-- deterministic planners  
-- token generation models  
-- multi-engine orchestration  
-- collaboration systems for multi-agent architectures  
+- deterministic orchestration (USR)
+- execution environment and semantic sequencing (USE)
+- structured cognition engines (CE)
+- token-level meaning systems (UST)
 
-I believe the shift from LLM-centric AI to **Semantic Engine–centric AI** is the next major inflection point.
+Across all work, the theme is the same:
+#### Give language models structure, memory integrity, safety, and predictable behavior.
 
 ---
 
-## Core Repositories (USS Organization)
+### 2. Control Protocols
 
-These are the primary engineering assets of the Universal Semantic Systems organization:
+I develop typed, auditable protocols that define:
 
-- **USR** – Universal Semantic Runtime  
-- **UST** – Universal Semantic Token Model  
-- **SynCE** – General-purpose Cognitive Engine  
-- **FinCE** – Trading-focused Cognitive Engine  
-- **QLE** – Teleogenic/Narrative Engine  
-- **ORCH-C** – Deterministic Orchestration Layer  
-- **research-papers** – All formal research briefs and LaTeX work  
+- how meaning is validated
+- how actions are sequenced
+- how safety constraints are applied
+- how invariants prevent drift
 
-Each repo provides its own documentation, architecture, and canonical spec.
+Example:
+Semantic Control Protocol (SCP) → full validation pipeline for semantic tokens.
 
 ---
 
-## POC
+### 3. Research & Architecture Papers
 
-A lightweight proof-of-concept demonstrating a minimal semantic pipeline and deterministic reasoning loop is available here:
+I maintain a full research-paper repository containing:
 
-👉 [https://github.com/roberthansen-dev/synthetic-cognition-poc](https://github.com/designlogic-robert/synthetic-cognition-poc)
+- Universal Semantic Token Model
+- Control Protocol specifications
+- Orchestrator (ORCH-C) architecture
+- Semantic Executions engines
+- Cognitive Engine posture & reasoning frameworks
 
-This POC is what I used for collaboration with Duncan and for early employer demonstrations.
-
----
-
-## Operator Profile (OPPv1.0)
-
-This repository also contains my **Operator Profile**, a structured prompt that teaches any AI system how to collaborate with me at a high semantic level.  
-It is used as a boot-profile when starting new sessions with cognitive engines or large models.
-
-Location:  
-`/ops/operator-profile/OPP-v1.0.md`
+These papers present the theoretical and applied foundation of the USS ecosystem.
 
 ---
 
-## Repo Structure
+### Repository Contents
+
+This repo contains:
+
+#### /POCs/
+
+Small POCs, prototypes, and utilities demonstrating:
+
+- token parsing
+- routing structures
+- deterministic execution skeletons
+- semantic sequencing patterns
+- runtime orchestration simulations
+
+#### /research-papers/
+
+Pointers to my main research-papers repo (kept separate for structure and clarity).
+
+/personal/
+
+Operator Profile Protocol (OPP), workflows, notes, and personal development structures.
+
+---
+
+### Highlighted Work
+#### Universal Semantic Stack (USS)
+
+My primary architecture: a multi-layer synthetic cognition framework consisting of:
+
+- UST – universal semantic representation
+- USR – deterministic meaning-processing runtime
+- USE – execution engine for semantic operations
+- CE – cognitive engine posture/decision logic
+
+This stack enables LLMs to act like structured agents with explainable reasoning states.
+
+---
+
+#### Orchestrator: ORCH-C
+
+A deterministic planner that:
+
+- synthesizes multi-agent reasoning
+- enforces invariants
+- outputs traceable execution plans
+- makes LLM reasoning auditable
+
+The architecture paper is in the public repo and fully open for reading.
+
+---
+
+#### CPS / Chat Birth Systems
+
+I build self-contained CPS blocks ("Chat Preparation Statements") that bootstrap deterministic behavior across chats and LLMs.
+
+This is part of a broader Operator Architecture that defines identity-level context for collaborative AI work.
+
+--- 
+
+### Who I Am
+
+Robert Hansen
+Chief Semantic Architect
+Creator of the Universal Semantic Stack (USS)
+Designer of synthetic cognition frameworks
+
+My focus is on constructing the semantic and architectural substrate for next-generation AI systems — not just prompts, but the underlying control layer that gives models structure, reliability, and coherence.
+
+---
+
+### How to Navigate My Work
+
+Start here:
+
+1. research-papers repo — theory, architecture, protocols, token systems
+2. designlogic-robert repo — personal portfolio, runnable code, POCs, and operator systems
+3. USS org repo (coming soon) — consolidated architecture for public-facing USS release
+
+---
+
+### Contact / Collaboration
+
+I collaborate with:
+
+- founders
+- AI teams
+- startups
+- researchers
+- runtime layer developers
+
+Open to advisory, architecture, and runtime design roles.
 
 
