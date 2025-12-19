@@ -1,82 +1,94 @@
 # Robert Hansen
-### Semantic Systems Architect • Cognitive Engine Designer • Founder of Universal Semantic Systems (USS)
+### Semantic Systems Architect • Deterministic AI Infrastructure • Founder of Universal Semantic Systems (USS)
 
-I build deterministic semantic infrastructure beneath modern AI systems.  
-My work focuses on creating typed semantic tokens, stable meaning-processing runtimes, and cognitive execution engines capable of producing verifiable, auditable reasoning.
+I design and build **governed semantic infrastructure** beneath modern AI systems.
 
-My goal is simple: move AI beyond surface-level prediction and into structured cognition.
+My work focuses on:
+- typed semantic representations,
+- deterministic execution runtimes,
+- and governance-first cognitive architectures
+
+that make AI behavior **inspectable, auditable, and reproducible**.
+
+The goal is not smarter prediction —  
+the goal is **engineered cognition with responsibility preserved**.
 
 ---
 
-## 🔧 Current Work
+## 🔧 Current Focus
 
 ### **Universal Semantic Systems (USS)**
-A unified architecture for deterministic cognition:
-- **UST** – Universal Semantic Token Model  
-- **USR** – Universal Semantic Runtime  
-- **USE** – Universal Semantic Engine  
-- **CE** – Cognition Engine  
-- **SynCE / FinCE / QLE** – Domain Engines  
+USS is a **Semantic Operating System** that provides execution governance and structured meaning layers for probabilistic language models.
+
+My work on USS emphasizes:
+- semantic token systems
+- governed runtimes
+- invariant enforcement
+- deterministic orchestration
+- replayable cognitive execution
+
+USS is infrastructure, not a product or application.
 
 ---
 
-## 📚 Active Repositories
+## 📚 Repositories (Selective Disclosure)
 
 ### **POCs**
-Small prototypes and execution demos:
-- token parsing  
-- deterministic execution loops  
-- routing & orchestration experiments  
-- semantic sequencing patterns  
-- SynCE demo POC (in progress)
+Exploratory prototypes and architectural experiments related to:
+- semantic token handling
+- execution sequencing
+- orchestration patterns
+- determinism and replayability
+
+> These are experimental artifacts, not production systems.
 
 Repo: **POCs**
 
 ---
 
-### **Research Papers**
-The formal home of USS architecture:
-- UST tokens  
-- Control protocols (SCP, Teleo, Trading)  
-- USR architecture notes  
-- USE execution model  
-- CE cognition cycle  
-- LaTeX source + compiled PDFs
+### **Research & Architecture Notes**
+Formal and informal materials related to:
+- semantic architectures
+- execution models
+- governance protocols
+- cognitive system design
+
+This repository serves as a **research and design workspace**, not a finalized specification set.
 
 Repo: **research-papers**
 
 ---
 
-### **Semantic Tokens v1**
-Legacy but required repository.  
+### **Legacy Semantic Token Work**
+Early semantic token models retained for historical and compatibility reasons.
 
 Repo: **semantic-tokens-v1**
 
 ---
 
-### **Personal / Operator Profile**
-Notes, workflows, and personal development structures.  
-Also includes Operator Profile Protocol (OPP) and system-level work logs.
+### **Operator / Design Notes**
+Personal workflows, architectural thinking, and system design logs.
 
 Repo: **designlogic-robert**
 
 ---
 
-## 🧠 Focus Areas
-- Typed semantic architectures  
-- Deterministic AI runtimes  
-- Cognitive execution engines  
-- Multi-stage orchestration models  
-- Semantic interoperability across CE stacks  
+## 🧠 Areas of Work
+- Semantic systems architecture
+- Deterministic AI execution
+- Governance-first AI design
+- Meaning-preserving transformations
+- Multi-layer orchestration models
 
 ---
 
 ## 📫 Contact
-`robert.h.designlogic@gmail.com`
+**Email:** robert.h.designlogic@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/roberthansen-ai
 
 ---
 
-### “Cognition should be engineered, not guessed.”
+> *Cognition should be engineered — not inferred, guessed, or outsourced.*
 
 
 
