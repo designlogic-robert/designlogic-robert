@@ -1,94 +1,98 @@
-# Robert Hansen
-### Semantic Systems Architect • Deterministic AI Infrastructure • Founder of Universal Semantic Systems (USS)
+# Robert Hansen  
+### Operations & Systems Analyst  
+*Data integrity • decision traceability • governance-aware system design*
 
-I design and build **governed semantic infrastructure** beneath modern AI systems.
+I design and document **structured decision and data workflows** that help teams reduce ambiguity, validate information, and operate with confidence in complex systems.
 
-My work focuses on:
-- typed semantic representations,
-- deterministic execution runtimes,
-- and governance-first cognitive architectures
+My work focuses on making decisions and data **inspectable, auditable, and reproducible**, particularly in environments where errors are costly and assumptions tend to go unspoken.
 
-that make AI behavior **inspectable, auditable, and reproducible**.
-
-The goal is not smarter prediction —  
-the goal is **engineered cognition with responsibility preserved**.
+The goal is not abstract optimization —  
+the goal is **clarity, accountability, and reliable execution**.
 
 ---
 
-## 🔧 Current Focus
+## 🔧 Professional Focus
 
-### **Universal Semantic Systems (USS)**
-USS is a **Semantic Operating System** that provides execution governance and structured meaning layers for probabilistic language models.
+I work at the intersection of:
+- business analysis,
+- operations,
+- and system implementation,
 
-My work on USS emphasizes:
-- semantic token systems
-- governed runtimes
-- invariant enforcement
-- deterministic orchestration
-- replayable cognitive execution
+with an emphasis on:
+- translating stakeholder intent into explicit requirements,
+- validating data accuracy and completeness,
+- documenting decision logic and constraints,
+- and supporting cross-functional teams during change and implementation.
 
-USS is infrastructure, not a product or application.
-
----
-
-## 📚 Repositories (Selective Disclosure)
-
-### **POCs**
-Exploratory prototypes and architectural experiments related to:
-- semantic token handling
-- execution sequencing
-- orchestration patterns
-- determinism and replayability
-
-> These are experimental artifacts, not production systems.
-
-Repo: **POCs**
+This work applies directly to roles involving ERP systems, operational analytics, data reconciliation, system rollouts, and process improvement.
 
 ---
 
-### **Research & Architecture Notes**
-Formal and informal materials related to:
-- semantic architectures
-- execution models
-- governance protocols
-- cognitive system design
+## 🧠 Portfolio Framework: Universal Semantic Systems (USS)
 
-This repository serves as a **research and design workspace**, not a finalized specification set.
+USS is a **personal analytical and documentation framework** I use to structure how complex decisions and data flows are reasoned about, reviewed, and validated.
 
-Repo: **research-papers**
+It is not a product or platform.
 
----
+USS helps ensure that:
+- assumptions are stated explicitly,
+- decisions are traceable to evidence,
+- constraints are documented,
+- and outcomes can be reviewed or audited after the fact.
 
-### **Legacy Semantic Token Work**
-Early semantic token models retained for historical and compatibility reasons.
-
-Repo: **semantic-tokens-v1**
-
----
-
-### **Operator / Design Notes**
-Personal workflows, architectural thinking, and system design logs.
-
-Repo: **designlogic-robert**
+The framework is especially useful in environments involving:
+- system migrations,
+- operational reporting,
+- compliance or risk review,
+- and multi-stakeholder decision processes.
 
 ---
 
-## 🧠 Areas of Work
-- Semantic systems architecture
-- Deterministic AI execution
-- Governance-first AI design
-- Meaning-preserving transformations
-- Multi-layer orchestration models
+## 📂 Selected Work (Applied Examples)
+
+### **Audit-Ready Decision Record**
+Demonstrates how an operational decision can be documented with:
+- stated rationale,
+- applied constraints,
+- supporting evidence,
+- and a clear decision outcome suitable for review or audit.
+
+---
+
+### **Audit-Ready Incident Decision Pack**
+Shows how unstructured incident inputs (emails, notes, reports) can be converted into a:
+- structured,
+- timestamped,
+- and reviewable decision record
+
+useful for compliance, post-incident analysis, or management review.
+
+---
+
+### **Bid Intelligence Samples**
+Examples of organizing fragmented bid and project information into:
+- structured summaries,
+- comparable data points,
+- and decision-ready artifacts
+
+supporting estimation, prioritization, and review.
+
+---
+
+## 🧩 How This Work Applies in Practice
+
+The methods demonstrated here are applicable to roles such as:
+- Business Analyst
+- Operations Analyst
+- Implementation Analyst
+- Data or Reporting Analyst
+- ERP or System Migration Support
+
+These artifacts reflect **how I think and work**, not theoretical research.
 
 ---
 
 ## 📫 Contact
+
 **Email:** robert.h.designlogic@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/roberthansen-ai
-
----
-
-> *Cognition should be engineered — not inferred, guessed, or outsourced.*
-
-
-
