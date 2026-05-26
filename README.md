@@ -169,7 +169,6 @@ My strongest public evidence is the DesignLogic repository system and the struct
 
 **Email:** [robert.h.designlogic@gmail.com](mailto:robert.h.designlogic@gmail.com)
 **LinkedIn:** [linkedin.com/in/roberthansen-ai](https://www.linkedin.com/in/roberthansen-ai)
-**GitHub:** [github.com/designlogic-robert](https://github.com/designlogic-robert)
 **DesignLogic Organization:** [github.com/designlogic-systems](https://github.com/designlogic-systems)
 
 ```
