@@ -1,148 +1,175 @@
 # Robert Hansen
 
-### AI Workflow & Evaluation Systems Builder  
-*Structured AI workflows • schema-bound outputs • validation logic • decision traceability*
+Founder/operator of DesignLogic. Creator of the Universal Semantic Systems ecosystem.
 
-I build structured, auditable AI workflows that turn ambiguous inputs into clear, usable outputs.
+I work on semantic backend architecture for AI systems: turning ambiguous human intent, messy source material, and incomplete operational context into structured, reviewable, versioned artifacts before downstream execution.
 
-My work focuses on AI-assisted systems used in real operational contexts, especially where inputs are unstructured and downstream decisions need to remain reliable, repeatable, and inspectable.
-
-I am especially interested in the space between:
-
-- AI workflow design
-- automation and implementation
-- structured prompting
-- schema validation
-- output verification
-- human-in-the-loop review
-- AI governance and reliability
-
-The goal is not just to generate outputs with AI.
-
-The goal is to design systems where AI behavior is bounded, documented, testable, and useful inside real workflows.
+My current focus is DesignLogic, a public-facing framework, app, and proof-slice surface for building more inspectable AI-assisted workflows.
 
 ---
 
-## Current Focus
+## What I’m Building
 
-I am currently building DesignLogic, a portfolio and systems lab focused on practical AI workflow design.
+DesignLogic is focused on the layer between messy human input and downstream AI-assisted action.
 
-DesignLogic explores how AI can be used inside controlled workflows rather than as an unbounded decision-maker. My work emphasizes:
+The core idea:
 
-- clarifying vague requirements before execution
-- defining explicit input and output contracts
-- using structured prompts and schemas
-- validating AI-generated outputs
-- documenting workflow logic and failure paths
-- preserving traceability for review and improvement
+```text
+ambiguous source material
+-> structured definition material
+-> review and boundary checks
+-> versioned artifact state
+-> builder-ready handoff
+````
 
-I use AI heavily as a development accelerator, but I do not treat generated outputs as trusted by default. My work focuses on the structure around AI use: requirements, contracts, validation, orchestration, review, and documentation.
+DesignLogic is not about treating AI output as automatically correct.
 
----
-
-## Public Portfolio
-
-### Structured Discovery Engine
-
-**Repository:** [designlogic-systems/sde](https://github.com/designlogic-systems/sde)
-
-SDE is a Structured Discovery Engine designed to convert vague or incomplete inputs into structured discovery artifacts.
-
-It demonstrates:
-
-- AI-assisted workflow design
-- structured intake processing
-- schema-bound outputs
-- prompt and operator documentation
-- validation-oriented workflow design
-- n8n workflow implementation
-- sample inputs and outputs
-- diagnostic and failure-path thinking
-
-SDE reflects the kind of work I want to do professionally: building AI-assisted workflows that are understandable, inspectable, and useful for downstream human or system review.
+It is about designing the structure around AI use so that outputs can be reviewed, bounded, traced, refined, and handed off responsibly.
 
 ---
 
-## Internal Framework: Universal Semantic Systems
+## USS And DesignLogic
 
-Universal Semantic Systems, or USS, is my internal AI workflow design framework.
+Universal Semantic Systems, or USS, is my internal semantic architecture lineage.
 
-I use USS to structure how I work with AI across projects. It helps me move from vague intent to organized implementation by defining:
+USS is where I developed the deeper concepts behind my work: semantic runtime structure, governed execution, definition artifacts, lens-based reasoning, review boundaries, and authority separation.
 
-- the purpose of a workflow
-- the role of the AI component
-- the expected input shape
-- the expected output shape
-- validation and review requirements
-- documentation standards
-- assumptions and failure modes
+DesignLogic is the public-facing system surface where selected USS-derived concepts are translated into usable structures for AI workflow design, app definition, review, handoff, and proof-slice development.
 
-In practical terms, USS is the method behind my DesignLogic work. It helps me avoid treating AI as a black box and instead use it within structured, reviewable systems.
+```text
+USS
+= internal semantic architecture / deeper system lineage
 
-USS is not presented here as a finished platform. It is my internal operating framework for deriving AI-assisted workflow architectures that preserve structure, enforce input/output contracts, surface failure conditions, and produce reviewable artifacts.
+DesignLogic
+= public-facing company, framework, app, and product surface
+
+DesignLogic Framework
+= public reusable structure derived from selected USS concepts
+
+DesignLogic Apps
+= product/app layer built from the framework
+
+DesignLogic Workbench / DLWB
+= first flagship app context
+```
+
+USS remains internal. DesignLogic is the public system people should inspect first.
+
+---
+
+## Official DesignLogic Work
+
+Official public DesignLogic materials live under the DesignLogic organization:
+
+* [DesignLogic GitHub Organization](https://github.com/designlogic-systems)
+* [DesignLogic Architecture](https://github.com/designlogic-systems/designlogic-architecture)
+* [DesignLogic Framework](https://github.com/designlogic-systems/designlogic-framework)
+* [DesignLogic Apps](https://github.com/designlogic-systems/designlogic-apps)
+* [DesignLogic Papers](https://github.com/designlogic-systems/papers)
+
+This personal GitHub is my operator profile and project-history surface. It is not the official source of truth for DesignLogic products, public architecture, or framework documentation.
+
+---
+
+## Current Public Focus
+
+### DesignLogic Semantic Runtime Architecture
+
+Public architecture documentation for the semantic backend layer behind DesignLogic.
+
+It explains why AI systems need structured intermediate layers between raw user intent and downstream execution.
+
+### DesignLogic Framework
+
+Reusable public framework surfaces for structuring AI-assisted work.
+
+Includes concepts such as lenses, App SDS, DefBlocks, MRDC, artifact contracts, authority boundaries, verification surfaces, and model-pipeline boundaries.
+
+### DesignLogic Apps
+
+The app/product layer for DesignLogic.
+
+The first documented app context is DesignLogic Workbench / DLWB, an App Definition Workbench for structuring messy app ideas into reviewed, versioned, builder-ready definition artifacts.
+
+### DesignLogic Papers
+
+Public writing and papers related to semantic runtime architecture, AI workflow structure, and DesignLogic concepts.
+
+---
+
+## How This Work Emerged
+
+This work did not begin as a formal company plan.
+
+It began through practical AI-assisted problem solving: using AI to reason through real control, planning, and operational problems where vague inputs needed to become clearer decisions or structured action.
+
+Over time, the repeated pattern became visible:
+
+```text
+AI is most useful when the surrounding system controls context, structure, review, and authority.
+```
+
+That insight grew into Universal Semantic Systems as an internal architecture lineage, and then into DesignLogic as the public-facing system surface.
 
 ---
 
 ## How I Work
 
-My work style is strongest at the system and workflow layer.
+I focus on the system layer around AI use.
 
-I focus on:
+My work emphasizes:
 
-- breaking ambiguous problems into explicit requirements
-- designing step-by-step workflow logic
-- defining structured outputs before generation
-- using schemas and validation checks
-- documenting assumptions and constraints
-- testing output quality across runs
-- identifying where human review is required
-- improving systems through observed failure modes
+* turning vague inputs into structured artifacts
+* defining input and output boundaries before execution
+* separating proposals from authority
+* preserving review and traceability
+* documenting assumptions, gaps, and non-goals
+* designing handoff artifacts for humans, builders, workflows, and agents
+* keeping AI-assisted work inspectable instead of opaque
 
-I am not positioning myself as a traditional software engineer who hand-writes every line of production code from scratch. I use AI-assisted development tools, automation platforms, and structured documentation to build and test workflow systems.
+I use AI-assisted development tools heavily, but I do not treat AI-generated output as trusted by default.
 
-My value is in designing, organizing, validating, and improving the system around AI use.
-
----
-
-## Role Fit
-
-My current work is most relevant to roles such as:
-
-- AI Workflow Engineer
-- AI Implementation Analyst
-- AI Automation Specialist
-- AI Operations Analyst
-- Prompt Systems Analyst
-- LLM Evaluation Analyst
-- AI Product Quality Analyst
-- Business Systems Analyst
-- Implementation Specialist
-- Operations Analyst with automation or AI tooling
-
-I am especially interested in roles where AI needs to be made practical, structured, and reliable inside real business processes.
+My value is in designing the structure, review process, and semantic boundaries around AI-assisted work.
 
 ---
 
-## What I Am Building Toward
+## Role And Collaboration Fit
 
-My long-term focus is AI workflow infrastructure.
+My current work is relevant to roles and projects involving:
 
-I am working toward systems that can:
+* AI workflow engineering
+* AI automation and implementation
+* semantic backend design
+* AI governance infrastructure
+* LLM workflow evaluation
+* structured discovery and intake systems
+* app-definition workflows
+* AI-assisted build preparation
+* human-in-the-loop review systems
+* traceable handoff and validation processes
 
-- turn ambiguous inputs into structured workflow artifacts
-- compare AI behavior across controlled runs
-- evaluate outputs against explicit criteria
-- capture evidence and failure modes
-- support human review
-- produce reusable documentation and datasets
-- help teams use AI with more clarity and control
+I am especially interested in work where AI needs to become more structured, inspectable, reproducible, and useful inside real operational systems.
 
-The current public proof artifact is SDE. Additional DesignLogic projects will be added publicly as they become clean, documented, and ready for review.
+---
+
+## Background
+
+Completed coursework aligned with:
+
+* CompTIA A+
+* Google Data Analytics Professional Certificate
+
+Certifications are not currently claimed.
+
+My strongest public evidence is the DesignLogic repository system and the structured artifacts it contains.
 
 ---
 
 ## Contact
 
-**Email:** robert.h.designlogic@gmail.com  
-**LinkedIn:** [linkedin.com/in/roberthansen-ai](https://www.linkedin.com/in/roberthansen-ai)  
-**GitHub Portfolio:** [github.com/designlogic-systems/sde](https://github.com/designlogic-systems/sde)
+**Email:** [robert.h.designlogic@gmail.com](mailto:robert.h.designlogic@gmail.com)
+**LinkedIn:** [linkedin.com/in/roberthansen-ai](https://www.linkedin.com/in/roberthansen-ai)
+**GitHub:** [github.com/designlogic-robert](https://github.com/designlogic-robert)
+**DesignLogic Organization:** [github.com/designlogic-systems](https://github.com/designlogic-systems)
+
+```
